@@ -14,3 +14,9 @@ print("line three  in main.py")
 print("line 6th in main.py")
 
 #git push final commit
+# comment added line 7
+print("line 7th in main.py")            
+# comment added line 8
+print("line 8th in main.py")
+# comment added line 9
+print("line 9th in main.py")
