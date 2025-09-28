@@ -6,3 +6,5 @@ for i in a :
 print("hello world")
 # comment added line 3
 print("line one in main.py")
+# comment added line 6
+print("line 6th in main.py")
