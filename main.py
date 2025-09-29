@@ -45,5 +45,9 @@ def main():
     print("line 8th in main.py")
     # comment added line 9
     print("line 9th in main.py")
+    # comment addes line 1
+    a=[1,2,3,4,5,6,7,8,9,10]
+    for i in a :    
+        print(f'value from the list is {i}')
 if __name__ == "__main__":
     main()
