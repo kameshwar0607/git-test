@@ -1,3 +1,5 @@
+import test
+
 def main():
     print("Hello, World!")
     # comment addes line 1
@@ -51,3 +53,5 @@ def main():
         print(f'value from the list is {i}')
 if __name__ == "__main__":
     main()
+    print("Executing test function from test.py after executing main()  ")
+    test.test_function()
